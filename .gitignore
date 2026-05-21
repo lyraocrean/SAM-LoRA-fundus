@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints (use HuggingFace Hub instead)
+*.pth
+*.pt
+*.ckpt
+
+# Training outputs
+result/
+runs/
+wandb/
+
+# Dataset (download separately)
+data/
+datasets/
+
+# Inference outputs
+infer/
+outputs/
+
+# Environment / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db

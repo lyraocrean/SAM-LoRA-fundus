@@ -1,0 +1,15 @@
+# Install SAM first:
+#   pip install git+https://github.com/facebookresearch/segment-anything.git
+
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+Pillow>=9.4.0
+opencv-python>=4.7.0
+albumentations>=1.4.0
+scikit-image>=0.21.0
+scipy>=1.11.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+kornia>=0.7.0
+tensorboard>=2.13.0

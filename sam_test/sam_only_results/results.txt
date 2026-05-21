@@ -1,0 +1,8 @@
+=== 原始SAM模型分割性能 ===
+iou: 0.0598
+dice: 0.1097
+precision: 0.1714
+recall: 0.3045
+f1: 0.1097
+accuracy: 0.7390
+specificity: 0.7740
