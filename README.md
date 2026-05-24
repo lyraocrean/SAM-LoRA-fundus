@@ -22,6 +22,10 @@ The **prompt-free** variant (row 2) is the most practically useful: it requires 
 
 ## Method
 
+### Algorithm Workflow
+
+![Algorithm workflow](assets/algorithm-workflow.png)
+
 ### LoRA Injection
 
 LoRA adapters are injected into the **QKV projection layers** of every attention block in SAM's ViT-B image encoder. For each frozen weight matrix W, we add a low-rank residual:
