@@ -94,6 +94,12 @@ data/
 
 ---
 
+## Visualization
+
+![Segmentation result on FIVES test image](assets/result-visualization.png)
+
+---
+
 ## Repository Structure
 
 ```
